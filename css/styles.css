@@ -245,7 +245,7 @@ p {
 
 	.footer {
 		height: 325px;
-		padding: 20px;
+		margin: 20px 0;
 	}
 
 	.footer .content {
