@@ -15,7 +15,7 @@ body {
 
 /* Header */
 .header {
-	background: #FF9459;
+	background: #F05042;
 	padding: 75px 2em;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 .info h1 {
-	color: white;
+	color: #ffffff;
 	font-size: 2.5em;
 	letter-spacing: .5px;
 	margin: 40px 0 1px 20px;
@@ -48,11 +48,17 @@ body {
 }
 
 p.title {
-	color: white;
+	color: #FFEAE2;
 	font-size: 1.25em;
 	letter-spacing: .25px;
 	margin: 1px 0 0 20px;
 	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+
+.color-bar {
+	height: 10px;
+	background-color: #E9A79F;
 }
 
 /*Main*/
