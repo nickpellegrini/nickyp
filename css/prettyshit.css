@@ -97,13 +97,14 @@ img.logos {
 	width: 400px;
 	display: block;
 	margin: 0 auto;
-	padding-bottom: 25px;
+	padding-bottom: 40px;
 }
 
 .work {
 	font-family: 'Roboto', sans-serif;
-	font-size: 1.11em;
+	font-size: 1em;
 	font-weight: 100;
+	line-height: 1.75em;
 	color: black;
 	display: block;
 	padding: 0 50px;
