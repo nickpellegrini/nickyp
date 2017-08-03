@@ -110,6 +110,17 @@ img.logos {
 	padding: 0 50px;
 }
 
+.work a{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: 100;
+	color: #000;
+}
+
+.work a:hover{
+	color: #45F7AF;
+}
+
 .project-list {
 	font-family: 'Roboto', sans-serif;
 	font-size: 1em;
