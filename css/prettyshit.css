@@ -24,7 +24,7 @@ body {
 	margin: 0 auto;
 	font-family: 'Roboto', sans-serif;
 	display: flex;
-	border-bottom: 4px solid rgba(69, 247, 175, 0.25);
+	border-bottom: 3px solid rgba(69, 247, 175, 0.25);
 	padding: 50px 50px;
 }
 
@@ -46,8 +46,8 @@ body {
 }
 
 .info {
-	padding-top: 45px;
-  padding-left: 30px;
+	padding-top: 40px;
+  	padding-left: 30px;
 }
 
 p.name {
@@ -108,6 +108,7 @@ img.logos {
 	color: black;
 	display: block;
 	padding: 0 50px;
+	text-align: center;
 }
 
 .work a{
@@ -170,7 +171,7 @@ work .project:first-child {
 .footer {
 	width: 700px;
   margin: 0 auto;
-  border-top: 4px solid rgba(69, 247, 175, 0.25);
+  border-top: 3px solid rgba(69, 247, 175, 0.25);
 	height: 150px;
 }
 
